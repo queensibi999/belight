@@ -20,24 +20,7 @@ The "Belight" repository is an open-source, community-driven project that welcom
 Essentially, "Belight" is an ecosystem where developers and light aficionados come together to create, investigate, and light up the universe of possibilities that exist within the realm of light. It's much more than simply a repository.
 
 
-Customer
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Customer
 
 
 
